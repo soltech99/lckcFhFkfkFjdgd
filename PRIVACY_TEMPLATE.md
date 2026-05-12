@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: [日付を記入]
+Last Updated: [5/12/2026]
 
 ## 1. Introduction
 This application is an internal productivity tool for authorized enterprise 
@@ -123,7 +123,7 @@ the "Last Updated" date.
 
 If you have any questions about this Privacy Policy or our data practices:
 
-- **Email**: [support-email@example.com]
+- **Email**: [omalwm2m@gmail.com]
 
 For organization-specific inquiries, please contact your IT department.
 

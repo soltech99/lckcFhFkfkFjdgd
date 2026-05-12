@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last Updated: [2025-01-XX]
+Last Updated: [5/12/2026]
 
 ## 1. Acceptance of Terms
 
@@ -47,7 +47,7 @@ You can revoke this authorization at any time through the Application
 settings or your Google Account settings.
 
 For details on how we handle your Google data, please see our 
-[Privacy Policy](./PRIVACY.md).
+[Privacy Policy](PRIVACY_TEMPLATE.md).
 
 ## 6. Intellectual Property
 
@@ -110,7 +110,7 @@ acceptance of the new Terms of Service.
 
 If you have any questions about these Terms of Service:
 
-- **Email**: [support-email@example.com]
+- **Email**: [omalwm2m@gmail.com]
 
 For organization-specific inquiries, please contact your IT department.
 
